@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 1000;
+    background-color: rgb(227, 173, 227);
+}
+ul {
+    background-color: rgb(240, 190, 124);
+}
+body {
+    background-color: rgb(247, 211, 164);
+}
